@@ -1,0 +1,5 @@
+git pull #从远端同步代码
+
+git commit -a -m "message" #提交代码到本地仓库
+
+git push origin master #推送本地代码到远程仓库
